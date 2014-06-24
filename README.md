@@ -1,4 +1,0 @@
-POJ
-===
-
-peking online judge
